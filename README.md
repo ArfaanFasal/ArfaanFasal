@@ -8,7 +8,7 @@ Currently, I'm focusing on web development, programming, and strengthening my un
 
 ## Tech Stack 
 C programming,Python,Java
-HTML,CSS,JAVASCript
+HTML,CSS,JavaScript
 
 ## Currently Working On
 
