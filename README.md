@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**ArfaanFasal/ArfaanFasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arfaan Fasal, a B.Tech graduate passionate about Software Development, Full-Stack Development, and AI.
 
-Here are some ideas to get you started:
+I enjoy building software applications, exploring new technologies, and solving real-world problems through code. I'm continuously learning and expanding my skills through projects and hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing on web development, programming, and strengthening my understanding of backend technologies.
+
+## Tech Stack 
+C programming,Python,Java
+HTML,CSS,JAVASCript
+
+## Currently Working On
+
+* Full-Stack Web Development
+* Python Projects
+* AI Applications
+
+
